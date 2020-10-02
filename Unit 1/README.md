@@ -1,7 +1,7 @@
 # Unit 1
 
 ## Assessments
-- [Asssessmen_1.scala](Unit 1/Assessment_1.scala). 
+- [Asssessmen_1.scala](Assessment_1.scala). 
     1. Write an algorithm to compute the radius of a circle.
     2. Write an algorithm to computer if a number is prime.
     3. Given the variable bird = "tweet" use string interpolation to print "I'm writing a tweet"

@@ -9,7 +9,7 @@
     5. What's the difference between val and var in scala
     6. Given the tuple = (2, 4, 5, 1, 2, 3, 3.1416, 23) print 3.1416
 
-- [Assesment_2.scala](Assesment_2.scala)
+- [Assessment_2.scala](Assessment_2.scala)
     1. Create a list named "list" with the elements "red", "white", "black"
     2. Add 5 elements to the "list" "green", "yellow", "blue", "orange", "pearl"
     3. Fetch the elements "green", "yellow", "blue" from the "list"

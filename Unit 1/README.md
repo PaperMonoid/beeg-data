@@ -18,3 +18,7 @@
     6. Create a mutable map named "names" containing the following values "Jose", 20, "Luis", 24, "Ana", 23, "Susana", 27
     6. a. Print all the keys of the map "names"
     6. b. Add the value ("Miguel", 23) to the map "names"
+
+- [Assessment_4.scala](Assessment_4.scala)
+    Code the fibonacci sequence using the 5 algorithms described in the spanish
+    wikipedias article about the [fibonacci sequence](https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci).

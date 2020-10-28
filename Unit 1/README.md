@@ -9,3 +9,6 @@ This directory is for the unit 1 assesments.
 
 ## [Research](Research)
 This directory is for the unit 1 research assignments.
+
+## [Practice](Practice)
+This directory is for the unit 1 practice assignments.

@@ -21,10 +21,9 @@ The first step was to create the branches and upload them to the remote reposito
 
 ```sh
 $ git checkout -b development
+$ git push origin development
 
-$ git push origin development\
 $ git checkout -b features
-
 $ git push origin features
 ```
 

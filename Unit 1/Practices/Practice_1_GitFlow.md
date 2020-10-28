@@ -13,22 +13,20 @@ In gitflow a new branch is made when a new functionality is being developed in a
 Body
 ----------
 
-In this practice, a simple gitflow example was made in the github repository [PaperMonoid/pratica_git_flow] (https://github.com/PaperMonoid/pratica_git_flow) with three branches: master, development and features.
+In this practice, a simple gitflow example was made in the github repository [PaperMonoid/pratica_git_flow](https://github.com/PaperMonoid/pratica_git_flow) with three branches: master, development and features.
 
 ![](Practice_1_GitFlow_Figure_1.png)
 
 The first step was to create the branches and upload them to the remote repository with the commands shown below.
 
-|
-
+```sh
 $ git checkout -b development
 
 $ git push origin development\
 $ git checkout -b features
 
 $ git push origin features
-
- |
+```
 
 Then the development branch was established as the main branch.
 

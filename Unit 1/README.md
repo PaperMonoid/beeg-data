@@ -19,6 +19,11 @@
     6. a. Print all the keys of the map "names"
     6. b. Add the value ("Miguel", 23) to the map "names"
 
+- [Assessment_3.scala](Assessment_3.scala)
+
+
+    Summarize the code of the [Assessment_3.scala](Assessment_3.scala) file.
+
 - [Assessment_4.scala](Assessment_4.scala)
 
 
@@ -28,4 +33,4 @@
 - [Assessment_5.scala](Assessment_5.scala)
 
 
-    Coding 15 predetermined Spark [dataframe functions](https://spark.apache.org/docs/2.4.7/api/scala/index.html#org.apache.spark.sql.Dataset).
+    Code 15 predetermined Spark [dataframe functions](https://spark.apache.org/docs/2.4.7/api/scala/index.html#org.apache.spark.sql.Dataset).

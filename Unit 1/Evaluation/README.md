@@ -1,7 +1,10 @@
 # Unit 1
 
 ## [Evaluation](Evaluation.scala)
+
 Instructions of the evaluation
+
+
     1. Create a simple session in spark.
     2. Load the netflix stock csv, using sparks type inference.
     3. What are the names of the columns?

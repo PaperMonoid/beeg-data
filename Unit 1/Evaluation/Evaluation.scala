@@ -154,7 +154,7 @@ scala> df.groupBy(date_format($"Date", "yyyy").as("Year")).max("High").orderBy("
 +----+------------------+
 */
 
-// e.  What's the maximum of the column "High" for each year?
+// e.  What's the average of the column "Close" for each month?
 df.groupBy(date_format($"Date", "MMMM").as("Month")).avg("Close").orderBy("Month").show()
 /*
 scala> df.groupBy(date_format($"Date", "MMMM").as("Month")).avg("Close").orderBy("Month").show()
